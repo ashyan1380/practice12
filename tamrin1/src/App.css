@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+}
+body {
+  align-items: center;
+  margin: 0;
+  text-align: center;
+}
+.App {
+  background-color: #254e64;
+  margin: 0;
+  color: aliceblue;
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: center;
+}

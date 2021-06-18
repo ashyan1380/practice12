@@ -1,0 +1,18 @@
+.person{
+    display: inline;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    /* margin: 1px; */
+}
+
+.girl{
+    background-color: pink;
+    color: rgb(207, 83, 160);
+    border: 1px solid rgb(207, 83, 160);
+}
+
+.boy{
+    background-color: cyan;
+    color: rgb(0, 162, 255);
+    border: 1px solid rgb(0, 162, 255);
+}

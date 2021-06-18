@@ -1,0 +1,25 @@
+.clear-btn{
+    background-color: rgb(182, 93, 134);
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 3rem;
+    margin-left: calc(50vw - 58px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.267);
+    transition: transform .5s;
+}
+
+.clear-btn:focus{
+    outline: none;
+}
+
+.clear-btn:hover{
+    background-color: rgb(161, 75, 115);
+
+}
+
+.clear-btn:active{
+    background-color: rgb(161, 75, 115);
+    transform: scale(.95);
+}
